@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hola, soy César 👋
 
-<!--
-**s0rnero/s0rnero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador de software de Cali, Colombia. Disfruto de participar en proyectos, programo para mi trabajo y como hobby también siempre mantengo creando cosas nuevas, cosas locas o ambiciosas, siempre con el interés de algo nuevo que aprender y mejorar.
 
-Here are some ideas to get you started:
+### Contacto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <!-- Cuando me pases tus iconos propios, solo reemplaza el src por ./assets/linkedin.png, ./assets/gmail.png, etc. -->
+  <a href="https://www.linkedin.com/in/dev-carv/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="48" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://carv-portfolio.netlify.app/">
+    <!-- Guarda la imagen morada (C con estrella) que me compartiste como assets/portfolio.png -->
+    <img src="./assets/portfolio.png" height="48" width="48" alt="Portafolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:cesarandresriosvalen@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="48" alt="Email" />
+  </a>
+</div>
